@@ -1,5 +1,5 @@
 [package]
-name = "MinecraftBreedingCalc"
+name = "minecraftbreedingcalc"
 version = "0.1.0"
 edition = "2021"
 
