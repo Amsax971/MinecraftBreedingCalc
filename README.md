@@ -4,6 +4,7 @@ Just a dumb project to calculate breeding stats in minecraft
 
 output is :
 |gen|     pig     |       carrots     |
+|-|-|-|
 |0 |2           |0                 |
 |1 |3           |2                 |
 |2 |5           |3                 |
